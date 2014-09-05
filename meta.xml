@@ -1,0 +1,5 @@
+<meta>
+	<info author="SuperBrandy" version="1.0" name="Explore Underwater" description="Lil' stupid script :D" type="script" />
+	<min_mta_version client="1.3.4" server="1.3.4" />	
+	<script src="client.lua" type="client"/>
+</meta>
